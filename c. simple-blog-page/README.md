@@ -1,5 +1,5 @@
 # 🌐 Simple Blog Page
-📅 Date: February 12, 2026  
+📅 Date: February 13, 2026  
 👨‍💻 Author: Dipu Ray  
 
 ---
@@ -30,10 +30,10 @@ simple-blog-page/
 
 ## 📸 Screenshot
 <p align="center">
-  <img src="images/project-ss/ss-image.png" width="600" alt="Blog Page Screenshot">
+  <img src="images/project-ss/ss-image.png" width="600" alt="Simple Blog Page Screenshot">
 </p>
 <p align="center">
-  <img src="images/project-ss/ss-image2.png" width="600" alt="Blog Page Screenshot">
+  <img src="images/project-ss/ss-image2.png" width="600" alt="Simple Blog Page Screenshot">
 </p>
 
 ---

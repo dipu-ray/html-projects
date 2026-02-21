@@ -1,5 +1,5 @@
 # 🌐 Restaurant Menu Page
-📅 Date: February 13, 2026  
+📅 Date: February 14, 2026  
 👨‍💻 Author: Dipu Ray  
 
 ---
@@ -30,10 +30,10 @@ restaurant-menu-page/
 
 ## 📸 Screenshot
 <p align="center">
-  <img src="images/ss-img.png" width="600" alt="Restaurant Project Screenshot">
+  <img src="images/ss-img.png" width="600" alt="Restaurant Menu Page Project Screenshot">
 </p>
 <p align="center">
-  <img src="images/ss-img2.png" width="600" alt="Restaurant Project Screenshot">
+  <img src="images/ss-img2.png" width="600" alt="Restaurant Menu Page Project Screenshot">
 </p>
 
 ---

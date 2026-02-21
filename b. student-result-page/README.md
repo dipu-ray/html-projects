@@ -1,5 +1,5 @@
 # 🌐 Student Result Page
-📅 Date: February 11, 2026  
+📅 Date: February 12, 2026  
 👨‍💻 Author: Dipu Ray  
 
 ---
@@ -27,7 +27,7 @@ student-result-page/
 
 ## 📸 Screenshot
 <p align="center">
-  <img src="images/ss-image.png" width="600" alt="Student Result Project Screenshot">
+  <img src="images/ss-image.png" width="600" alt="Student Result Page Project Screenshot">
 </p>
 
 ---
