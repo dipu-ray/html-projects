@@ -24,8 +24,8 @@ personal-portfolio-website/
 │── images/
     └── ss-image.png
     └── ss-image2.png
-│── index.html
 │── README.md
+│── index.html
 
 ```
 
