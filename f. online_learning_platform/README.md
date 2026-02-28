@@ -1,4 +1,4 @@
-# 🌐 Registration Form Page
+# 🌐 Online Learning Platform
 📅 Date: February 28, 2026  
 👨‍💻 Author: Dipu Ray  
 
@@ -23,9 +23,9 @@ online_learning_platform/
 │── images/
     └── ss.png
     └── ss2.png
+│── README.md
 │── coding.mp4
 │── index.html
-│── README.md
 
 ```
 
