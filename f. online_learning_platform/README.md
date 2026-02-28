@@ -30,15 +30,12 @@ online_learning_platform/
 ```
 
 ## 📸 Screenshot
-<!-- <p align="center">
-  <img src="images/ss-img.png" width="600" alt="Registration Form Page Project Screenshot">
+<p align="center">
+  <img src="images/ss.png" width="600" alt="Online Learning Platform Web Page Screenshot">
 </p>
 <p align="center">
-  <img src="images/ss-img2.png" width="600" alt="Registration Form Page Project Screenshot">
+  <img src="images/ss2.png" width="600" alt="Online Learning Platform Web Page Screenshot 2">
 </p>
-<p align="center">
-  <img src="images/ss-img3.png" width="600" alt="Registration Form Page Project Screenshot">
-</p> -->
 
 ---
 
