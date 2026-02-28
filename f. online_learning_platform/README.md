@@ -21,9 +21,11 @@ The purpose of this project is to develop my HTML coding skills better.
 ```
 online_learning_platform/
 │── images/
-    <!-- └── ss-image.png -->
-│── README.md
+    └── ss.png
+    └── ss2.png
+│── coding.mp4
 │── index.html
+│── README.md
 
 ```
 
