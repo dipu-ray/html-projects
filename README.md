@@ -1,11 +1,8 @@
 # 🌐 HTML Projects
-# 🌐 HTML Projects
 There I'll make lot's of **HTML Projects**. To make websites with HTML for building HTML skills be stronger with make some projects. I hope, those are project you guy's are like it. Thank you!
 
 ## 📁 Project Structures
 ```
-📁 html-projects/
-├── README.md
 ├── a.personal-portfolio-website/
 │   └── images
 │   └── README.md
@@ -29,10 +26,10 @@ There I'll make lot's of **HTML Projects**. To make websites with HTML for build
 │   └── log-in.html
 │   └── welcome-page.html
 └── f. online_learning_platform/
-    └── images
-    └── README.md
-    └── coding.mp4
-    └── index.html
+│   └── images
+│   └── README.md
+│   └── coding.mp4
+│   └── index.html
 └── README.md
 ```
 
