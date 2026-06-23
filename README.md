@@ -15,7 +15,7 @@ A clean, modern, and fully responsive signup/registration UI — built with **pu
 ---
 
 **Started:** 14 April, 2026  
-**Last Updated:** 23 June, 2026  
+**Last Updated:** 24 June, 2026  
 **Author:** Dipu Ray
 
 ---

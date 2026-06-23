@@ -273,4 +273,17 @@ img {
         background-color: var(--white-color);
         text-align: center;
     }
+
+    .left-container {
+        padding: 100px 30px;
+    }
+
+    .left-container .heading1 {
+        font-size: 1.5rem;
+        line-height: 1.8rem;
+    }
+
+    .left-container .p1 {
+        margin-top: 10px;
+    }
 }
